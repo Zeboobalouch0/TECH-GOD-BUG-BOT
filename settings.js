@@ -22,7 +22,7 @@ global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContac number 923269634870'
+global.author = 'Tech-God\n\nContac: 923269634870'
 
 //console view/theme
 global.themeemoji = '🪀'
